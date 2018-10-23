@@ -1,5 +1,6 @@
 # Watch Your Hack Vietnamese translation
 Bản dịch tài liệu bảo mật Watch Your Hack, bảo vệ cá nhân trước hacker được Minh-Triet Pham Tran (trietptm) lược dịch từ tài liệu gốc ở trang web: https://watchyourhack.com/ .
+Bài viết được cập nhật lần cuối theo phiên bản: Watch Your Hack V5.
 Nếu có ý kiến thảo luận, hỏi đáp nào, bạn có thể tìm đến sự tư vấn chuyên sâu hơn của tôi qua tin nhắn riêng ở [Twitter](https://twitter.com/MinhTrietPT) hay [LinkedIn](https://www.linkedin.com/in/trietptm/) hoặc liên hệ [tác giả](https://daniel.verlaan.xyz/contact/) của bài viết gốc.
 
 ![image](https://user-images.githubusercontent.com/526959/47335370-213ef980-d6b5-11e8-81df-e56fd7731487.png)
@@ -26,3 +27,48 @@ Nếu có ý kiến thảo luận, hỏi đáp nào, bạn có thể tìm đến
 * Các hacker cũng lây nhiễm máy tính của bạn thông qua các thiết bị di động flash drive. Phương pháp này dù ít thịnh hành hơn, nhưng nó cũng tạo một nguy cơ đáng kể. Đó có thể là một ổ cứng di động mà bạn vừa tìm thấy ở công ty hay ai đó gửi cho bạn. Bất cứ ai có ý định hại bạn có thể truy cập vật lý vào máy tính của bạn nếu như bạn bỏ máy tính của mình đi toilet mà không khóa truy cập.
 
 ## Nhập môn
+![image](https://user-images.githubusercontent.com/526959/47344315-63c2ff00-d6d2-11e8-92d9-60d322fc6d0b.png)
+* Bây giờ bạn đã biết các hacker và làm thế nào mà họ chiếm được quyền truy cập, bạn có thể bắt đầu thực hiện một số thủ thuật 💡. Đây là những điều rất cơ bản: một danh sách đơn giản những biện pháp mà mọi người nên thực hiện.
+
+### Cập nhật phần mềm
+
+### Password
+
+### Phần mềm quản lý password
+
+### LASTPASS (FREE)
+
+### 1PASSWORD (3 USD/THÁNG)
+
+### BITWARDEN (FREE)
+
+### KEEPASS (FREE)
+
+### Mật khẩu mạnh
+
+### Tóm lược về cách tốt nhất để lưu trữ password
+
+### Những cách thức lưu giữ password khác
+#### ICLOUD KEYCHAIN
+#### Lưu trong trình duyệt
+#### Sổ tay/Ghi chú password
+
+### Cập nhật danh sách những password của bạn đã bị đánh cắp
+
+### Xác thực Hai-Bước (Đa Nhân Tố)
+#### Mã xác thực qua tin nhắn điện thoại
+#### MÃ XÁC THỰC QUA CÁC ỨNG DỤNG AUTHENTICATOR
+
+### Kiểm tra biểu tượng ổ khóa (và các yếu tố khác)
+### Thực hiện backup
+### Nhận dạng lừa đảo
+
+### Đừng mở link mà không cẩn thận kiểm tra (Don’t just click on any link)
+### Cẩn thận với các file đính kèm và kiểm tra các file mà bạn không tin tưởng
+### Thận trọng với mạng WiFi công cộng
+
+### Sử dụng một VPN
+
+### Đừng để thiết bị được mở một cách hớ hênh, không được khóa khi không sử dụng
+
+## Máy tính
