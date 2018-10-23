@@ -50,10 +50,12 @@ Nếu có ý kiến thảo luận, hỏi đáp nào, bạn có thể tìm đến
 
 #### LASTPASS (FREE)
 * [LastPass](https://www.lastpass.com/) là ứng dụng quản lý mật khẩu có rất nhiều chức năng, bao gồm một ứng dụng mở rộng cho trình duyệt web để sinh mật khẩu ngẫu nhiên và điền thông tin đăng nhập cho bạn. LastPass có các ứng dụng tốt cho các hệ điều hành cơ bản thường gặp và vẫn hoạt động tốt ngay cả với phiên bản miễn phí. Phiên bản có phí cho bạn một gigabyte để lưu trữ tài liệu nhạy cảm và lựa chọn để chia sẻ (share) password với những người dùng LastPass khác.
+
 ![image](https://user-images.githubusercontent.com/526959/47352432-12237000-d6e4-11e8-8798-e710d014d749.png)
 
 #### 1PASSWORD (3 USD/THÁNG)
 * [1Password](https://1password.com/) nổi tiếng với thiết kế đẹp và được tối ưu cho việc sử dụng trên các thiết bị của Apple, như iPhone và Macbook. Ứng dụng này có một sứng dụng mở rộng trình duyệt (extension) [1Password X](https://support.1password.com/getting-started-1password-x/) cho phép sinh ra các password ngẫu nhiên và điền chúng vào khi bạn truy cập các website mà bạn có thể đăng nhập. Khi đăng ký dịch vụ của 1Password, bạn sẽ nhận được một khóa bảo mật đặc biệt ([khóa bí mật](https://support.1password.com/secret-key-security/)), bạn cần dùng khóa này và Master Password của bạn để có thể truy cập tài khoản của bạn.
+
 ![image](https://user-images.githubusercontent.com/526959/47352478-2bc4b780-d6e4-11e8-933f-35cbfbf92870.png)
 
 #### BITWARDEN (FREE)
