@@ -59,8 +59,14 @@ Nếu có ý kiến thảo luận, hỏi đáp nào, bạn có thể tìm đến
 ![image](https://user-images.githubusercontent.com/526959/47352478-2bc4b780-d6e4-11e8-933f-35cbfbf92870.png)
 
 #### BITWARDEN (FREE)
+* [Bitwarden](https://bitwarden.com/) đã trở nên khá thông dụng những năm gần đây. Đây là 1 ứng dụng hoàn toàn mở, có thể cài đặt trên nhiều nền tảng và có thể sử dụng miễn phí. Bạn có thể chia sẻ password với vợ/chồng hay người trong gia đình, một chức năng mà bạn phải trả phí để sử dụng trong hầu hết các ứng dụng quản lý password khác. Nếu bạn muốn chia sẻ password với hơn một người, bạn sẽ phải trả phí 1 USD một tháng, đồng thời cũng sẽ cung cấp cho bạn 1 gigabyte chứa dữ liệu cho các file của bạn. Những người dùng rành kỹ thuật có thể tự vận hành hạ tầng Bitwarden cho riêng mình.
+
+![image](https://user-images.githubusercontent.com/526959/47355448-975e5300-d6eb-11e8-8d8e-397167538043.png)
 
 #### KEEPASS (FREE)
+* [KeePass](https://keepass.info/) được xem là ứng dụng quản lý password an toàn nhất, bởi vì nhiều chuyên gia bảo mật sử dụng ứng dụng này và đã tham gia làm cho nó an toàn hơn với kiến thức chuyên môn của họ. Điểm hạn chết là ứng dụng này nhìn khá cũ (old-fashioned), giống như một ứng dụng Windows XP. May mắn là cộng đồng sử dụng KeePass đầy những lập trình viên đầy đam mê đã làm những ứng dụng đẹp hơn với KeePass, ví dụ [MacPass for MacOS](https://macpassapp.org/). Một lựa chọn tốt khác là [KeePassXC](https://keepassxc.org/), về nhiều mặt là một phiên bản tốt và đầy đủ hơn cho KeePass, và cũng thường xuyên được cập nhật bởi một nhóm các lập trình viên đầy nhiệt huyết.
+
+* Bạn có thể nghĩ: liệu có một cái tủ khóa điện tử có an toàn hay không? Đây là một câu hỏi tốt, và một mối quan ngại có thể hiểu được. Ví dụ: LastPass đã bị hack [2](https://blog.lastpass.com/2015/06/lastpass-security-notice.html/) [lần](https://blog.lastpass.com/2017/03/security-update-for-the-lastpass-extension.html/). Dù vậy, các password chưa bao giờ bị đánh cắp, bởi vì chúng được lưu trữ trong một kho kỹ thuật số rất an toàn. 
 
 ### Mật khẩu mạnh
 
