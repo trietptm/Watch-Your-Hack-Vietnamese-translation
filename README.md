@@ -1,7 +1,7 @@
 # Watch Your Hack Vietnamese translation
 Bản dịch tài liệu bảo mật Watch Your Hack, bảo vệ cá nhân trước hacker được Minh-Triet Pham Tran (trietptm) lược dịch từ tài liệu gốc ở trang web: https://watchyourhack.com/ .
 
-Bài viết được cập nhật lần cuối theo phiên bản: Watch Your Hack V5.
+Bài viết được cập nhật lần cuối theo phiên bản: Watch Your Hack V5. Những thay đổi khác nếu có là do tôi thực hiện để làm rõ ý, tránh cho bạn đọc hiểu không đúng vấn đề.
 
 Nếu có ý kiến thảo luận, hỏi đáp nào, bạn có thể tìm đến sự tư vấn chuyên sâu hơn của tôi qua tin nhắn riêng ở [Twitter](https://twitter.com/MinhTrietPT) hay [LinkedIn](https://www.linkedin.com/in/trietptm/) hoặc liên hệ [tác giả](https://daniel.verlaan.xyz/contact/) của bài viết gốc.
 
