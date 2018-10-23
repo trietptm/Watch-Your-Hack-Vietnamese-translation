@@ -48,15 +48,17 @@ Nếu có ý kiến thảo luận, hỏi đáp nào, bạn có thể tìm đến
 * Các phần mềm quản lý password có thể tự động điền thông tin đăng nhập khi bạn truy cập một website bạn đã từng sử dụng và có password được lưu. Chỉ riêng chức năng đã giúp bảo vệ bản khỏi rất nhiều các tấn công. Nếu như địa chỉ website không chính xác, ví dụ như wellsfargo.mybanklogin.com, ứng dụng quản lý password sẽ không điền thông tin đăng nhập website ngân hàng Wells Fargo vào. Bạn cũng có thể sử dụng một ứng dụng quản lý password để lưu trữ các ghi chú (note), ví dụ như các mã đăng nhập, các khóa bí mật và câu trả lời cho các câu hỏi bí mật.
 * Một số ứng dụng quản lý password tốt: LastPass, 1Password, Bitwarden và KeePass. Nếu bạn chưa bao giờ sử dụng một ứng dụng quản lý password trước đây, hãy thử sử dụng phiên bản miễn phí của LastPass cho một khởi đầu tốt để làm quen.
 
-### LASTPASS (FREE)
+#### LASTPASS (FREE)
 * [LastPass](https://www.lastpass.com/) là ứng dụng quản lý mật khẩu có rất nhiều chức năng, bao gồm một ứng dụng mở rộng cho trình duyệt web để sinh mật khẩu ngẫu nhiên và điền thông tin đăng nhập cho bạn. LastPass có các ứng dụng tốt cho các hệ điều hành cơ bản thường gặp và vẫn hoạt động tốt ngay cả với phiên bản miễn phí. Phiên bản có phí cho bạn một gigabyte để lưu trữ tài liệu nhạy cảm và lựa chọn để chia sẻ (share) password với những người dùng LastPass khác.
 * 
 
-### 1PASSWORD (3 USD/THÁNG)
+#### 1PASSWORD (3 USD/THÁNG)
+* [1Password](https://1password.com/) nổi tiếng với thiết kế đẹp và được tối ưu cho việc sử dụng trên các thiết bị của Apple, như iPhone và Macbook. Ứng dụng này có một sứng dụng mở rộng trình duyệt (extension) [1Password X](https://support.1password.com/getting-started-1password-x/) cho phép sinh ra các password ngẫu nhiên và điền chúng vào khi bạn truy cập các website mà bạn có thể đăng nhập. Khi đăng ký dịch vụ của 1Password, bạn sẽ nhận được một khóa bảo mật đặc biệt ([khóa bí mật](https://support.1password.com/secret-key-security/)), bạn cần dùng khóa này và Master Password của bạn để có thể truy cập tài khoản của bạn.
+* 
 
-### BITWARDEN (FREE)
+#### BITWARDEN (FREE)
 
-### KEEPASS (FREE)
+#### KEEPASS (FREE)
 
 ### Mật khẩu mạnh
 
