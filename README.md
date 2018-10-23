@@ -66,6 +66,8 @@ Nếu có ý kiến thảo luận, hỏi đáp nào, bạn có thể tìm đến
 #### KEEPASS (FREE)
 * [KeePass](https://keepass.info/) được xem là ứng dụng quản lý password an toàn nhất, bởi vì nhiều chuyên gia bảo mật sử dụng ứng dụng này và đã tham gia làm cho nó an toàn hơn với kiến thức chuyên môn của họ. Điểm hạn chết là ứng dụng này nhìn khá cũ (old-fashioned), giống như một ứng dụng Windows XP. May mắn là cộng đồng sử dụng KeePass đầy những lập trình viên đầy đam mê đã làm những ứng dụng đẹp hơn với KeePass, ví dụ [MacPass for MacOS](https://macpassapp.org/). Một lựa chọn tốt khác là [KeePassXC](https://keepassxc.org/), về nhiều mặt là một phiên bản tốt và đầy đủ hơn cho KeePass, và cũng thường xuyên được cập nhật bởi một nhóm các lập trình viên đầy nhiệt huyết.
 
+![image](https://user-images.githubusercontent.com/526959/47356192-86164600-d6ed-11e8-9735-f2623a723355.png)
+
 * Bạn có thể nghĩ: liệu có một cái tủ khóa điện tử có an toàn hay không? Đây là một câu hỏi tốt, và một mối quan ngại có thể hiểu được. Ví dụ: LastPass đã bị hack [2](https://blog.lastpass.com/2015/06/lastpass-security-notice.html/) [lần](https://blog.lastpass.com/2017/03/security-update-for-the-lastpass-extension.html/). Dù vậy, các password chưa bao giờ bị đánh cắp, bởi vì chúng được lưu trữ trong một kho kỹ thuật số rất an toàn. 
 
 ### Mật khẩu mạnh
