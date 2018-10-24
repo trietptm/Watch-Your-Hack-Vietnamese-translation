@@ -127,7 +127,12 @@ Bạn có thể nghĩ: liệu có một cái tủ khóa điện tử có an toà
   * **Sai**: https://www.faceb00k.com (2 chữ o đã được thay thế bằng 2 chữ số 0)
 
 ### Thực hiện backup
+* Một bản backup (sao lưu) cho phép bạn truy cập các file của bạn khi bạn gặp các sự cố? Điều gì sẽ xảy ra nếu máy tính của bạn đột ngột bị hỏng? Những hình ảnh 📷, video 📹 và các tài liệu nào 📃 bạn **thực sự cần lưu trữ** và những file nào bạn cần cho công việc thường trực của bạn? Đây là những file mà bạn nên backup.
+* Backup là 1 biện pháp bảo vệ cho những file quan trọng của bạn, ngay cả khi máy tính của bạn bị hỏng, điện thoại của bạn bị đánh cắp hoặc ransomware khiến cho máy tính của bạn không sử dụng/truy cập được. Một bản backup sẽ giúp bạn phục hồi công việc một cách nhanh chóng.
+* Chúng tôi khuyến nghị bạn nên giữ 2 bản **backup online và offline**. Bạn có thể tạo các bản backup online với một dịch vụ cloud ☁️ như [Dropbox](https://www.dropbox.com/) và những bản backup offline sử dụng ổ cứng rời gắn ngoài. Hãy đảm bảo rằng bạn kiểm tra thường xuyên định kỳ các file được lưu trữ vẫn ở đúng vị trí của chúng và vẫn hoạt động tốt.
+
 ### Nhận dạng lừa đảo
+* Các tấn công dựa trên lừa đảo kỹ thuật số thường khá dễ để nhận biết. 
 
 ### Đừng mở link mà không cẩn thận kiểm tra (Don’t just click on any link)
 ### Cẩn thận với các file đính kèm và kiểm tra các file mà bạn không tin tưởng
