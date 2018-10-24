@@ -71,8 +71,15 @@ Nếu có ý kiến thảo luận, hỏi đáp nào, bạn có thể tìm đến
 Bạn có thể nghĩ: liệu có một cái tủ khóa điện tử có an toàn hay không? Đây là một câu hỏi tốt, và một mối quan ngại có thể hiểu được. Ví dụ: LastPass đã bị hack [2](https://blog.lastpass.com/2015/06/lastpass-security-notice.html/) [lần](https://blog.lastpass.com/2017/03/security-update-for-the-lastpass-extension.html/). Dù vậy, các password chưa bao giờ bị đánh cắp, bởi vì chúng được lưu trữ trong một kho kỹ thuật số rất an toàn. 
 
 ### Mật khẩu mạnh
+* Các website và ứng dụng thường yêu cầu bạn sử dụng mật khẩu có chữ và số. Nhưng một password như thế nào là 1 password mạnh? Nhiều người xem ```P@ssword007``` là 1 password mạnh nhưng trong thực tế, password này khá dễ crack 🔨 đối với các hacker. Đó là lý do tại sao bạn nên cân nhắc sử dụng passphrase (cụm password) thay vì các password được tạo với 1 từ đơn giản.
+* Cụm password dài nhưng dễ nhớ, là 2 điều kiện tiên quyết cho một password mạnh. Một passphrase như I eat 2 whole pizzas every week thì dễ nhớ và khá khó để để crack. Đừng ngần ngại sử dụng các khoảng trắng trong các password của bạn; đây là 1 lựa chọn mà chúng ta thường bỏ qua.
+* Bạn cũng có thể tạo một password bằng cách đặt những từ ngẫu nhiên lại với nhau với phương pháp [Diceware](http://world.std.com/~reinhold/dicewarefaq.html). Diceware hiện tại gần như là phương pháp an toàn nhất để tạo một password mà bạn có thể nhớ được.
 
 ### Tóm lược về cách tốt nhất để lưu trữ password
+* Sử dụng một phần mềm quản lý password (password manager), nên là 1 trong các phần mềm được giới thiệu ở trên.
+* Sử dụng một passphrase hoặc phương pháp Diceware để tạo password của bạn.
+* Viết xuống password quản lý mật khẩu của bạn (master password/manager password để đăng nhập password manager) và giữ nó ở một nơi an toàn, đảm bảo rằng bạn không bao giờ mất khả năng truy cập password manager.
+* Sử dụng password manager để sinh ra các password có độ dài **từ 20 ký tự trở lên** và để password manager lưu trữ những password này cho bạn.
 
 ### Những cách thức lưu giữ password khác
 #### ICLOUD KEYCHAIN
