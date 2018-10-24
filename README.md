@@ -143,3 +143,136 @@ Bạn có thể nghĩ: liệu có một cái tủ khóa điện tử có an toà
 ### Đừng để thiết bị được mở một cách hớ hênh, không được khóa khi không sử dụng
 
 ## Máy tính
+
+### Các phần mềm antivirus vẫn hữu dụng
+
+### Kích hoạt tự động cập nhật
+
+### Sử dụng Google Chrome với các ứng dụng mở rộng trình duyệt sau
+
+#### UBLOCK ORIGIN
+#### HTTPS EVERYWHERE
+#### PDF VIEWER
+
+### Tắt JavaScript và các macro, kích hoạt ứng dụng tường lửa (firewall)
+
+### Tránh sử dụng Flash
+
+### Kiện toàn bảo mật router của bạn
+
+### Các thiết bị ổ cứng di động và thiết bị thông minh (Flash drives and smart devices)
+
+### Kiện toàn giao dịch ngân hàng online
+
+### Xóa các file
+
+### Che webcam của bạn và kiểm tra môi trường xung quanh bạn
+
+### Chọn dùng 1 Chromebook
+
+### Cài đặt lại máy tính của bạn định kỳ
+
+## Điện thoại và máy tính bảng
+
+### Mua 1 iPhone
+
+### Cập nhật ngay khi bạn có thể
+
+### Kích hoạt mã hóa
+
+### Sử dụng passcode với ít nhất 6 chữ số và ứng dụng scan vân tay
+
+### Chỉ cài đặt ứng dụng từ App Store hoặc Google Play
+
+### Tắt Wifi và Bluetooth khi bạn không cần dùng đến
+
+### Tắt chức năng cho phép xem trước thông báo trên màn hình điện thoại được khóa
+
+### Sao lưu (backup) các thiết bị của bạn
+
+## Mạng xã hội và truyền thông
+
+### Cẩn thận với thông tin bạn chia sẻ
+
+### Chú ý thông tin riêng tư
+
+### Thử tìm kiếm với Google thông tin riêng tư, cá nhân của bạn
+
+### Thiết lập riêng tư cho các bài viết của bạn và log out tài khoản
+
+### Tạo các bản copy điện tử an toàn cho định danh (ID) của bạn
+
+### Kiểm tra các thiết bị đã được đăng nhập
+
+### Thực hiện kiểm tra bảo mật định kỳ
+
+## Nhắn tin và gọi điện thoại
+
+### Mã hóa đầu cuối ứng dụng
+
+### WhatsApp và Facebook
+
+### Những lựa chọn thay thế cho WhatsApp
+
+#### SIGNAL
+#### WICKR ME
+#### WIRE
+#### TELEGRAM
+#### IMESSAGE
+#### THREEMA
+
+### Tự động xóa tin nhắn
+
+### Gọi thoại và gọi video online
+
+### Email
+
+## Các chủ đề nâng cao
+
+### Cân nhắc mức độ rủi ro cho cá nhân bạn
+
+### Nhận diện lừa đảo kĩ thuật số
+
+### Mã hóa cho các ổ cứng của bạn và các bản backup
+
+### Tạo một password mạnh sử dụng phương pháp Diceware
+
+### Xác thực 2 yếu tố (đa nhân tố) với khóa bảo mật (security key)
+
+### Tắt chế độ tự động điền thông tin và kích hoạt chế độ tự động khóa màn hình
+
+### Thiết bị smartphone như là công cụ theo dõi của hacker và chính quyền
+
+### Cẩn trọng trong việc backup nội dung chat trên cloud
+
+### Thiết lập mật khẩu với các nhà cung cấp dịch vụ cho bạn
+
+### Cẩn trọng đối với thông tin vị trí trong các bức ảnh
+
+### Gọi điện an toàn
+
+### Email được mã hóa với ProtonMail
+
+### Duyệt Internet với Tor
+
+### Sử dụng PGP (nhưng chỉ khi bạn thật sự phải dùng)
+
+### Cài đặt OpenWrt cho thiết bị router của bạn
+
+### Chat sử dụng OTR
+
+### Vận hành để sử dụng VPN của riêng bạn
+
+### Tạo một camera giám sát an ninh của riêng bạn
+
+### iPod Touch và Signal
+
+### Chú ý các certificate
+
+### Sử dụng một màn hình riêng tư
+
+### Sử dụng một lá chắn USB
+
+### Tails và Qubes
+
+## Ghi chú và lời kết.
