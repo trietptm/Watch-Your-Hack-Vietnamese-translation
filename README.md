@@ -116,6 +116,16 @@ Bạn có thể nghĩ: liệu có một cái tủ khóa điện tử có an toà
 * Một cách an toàn cho xác thực hai yếu tố là sử dụng một ứng dụng authenticator. Những ứng dụng này cho phép bạn scan một QR-code là một barcode để scan bằng camera của smartphone của bạn. Mã QR-code được cung cấp bởi dịch vụ mà bạn muốn bảo mật. Sau khi scan QR-code, một mã bảo mật sẽ xuất hiện trên màn hình trong vòng 30 giây, ngay sau đó một mã khác sẽ được sinh ra. Những mã ngẫu nhiên này cho phép bạn xác thực việc truy cập của bạn, để dịch vụ online biết rằng bạn chính là người đang cố gắng truy cập tài khoản của bạn. [1Password](https://1password.com/), [LastPass Authenticator](https://lastpass.com/auth/), [Authy](https://authy.com/) và [Google Authenticator](https://support.google.com/accounts/answer/1066447) đều sinh ra các mã như vậy. Chú ý rằng khi sử dụng Google Authenticator, nếu bạn để mất điện thoại của bạn hoặc nếu ứng dung Google Authenticator bị reset, bạn sẽ mất tất cả các mã xác thực đăng nhập trên điện thoại đó. Những ứng dụng authenticator khác được nhắc ở trên cho phép bạn đồng bộ các mã xác thực đăng nhập này trên tất cả các thiết bị mà bạn sử dụng ứng dụng đó.
 
 ### Kiểm tra biểu tượng ổ khóa (và các yếu tố khác)
+* Biểu tượng ổ khóa 🔒 trên thanh địa chỉ của trình duyệt cho bạn biết bạn đang sử dụng một kết nối được mã hóa. Điều đó có nghĩa rằng thông tin mà bạn gửi vào website như password của bạn, thông tin credit card, được gửi đi theo một phương thức an toàn mà hacker sẽ không dễ dàng đọc trộm/nghe lén trên đường truyền được. Hãy đảm bảo rằng bạn chỉ gửi thông tin nhạy cảm trên các website mà có hiện ra biểu tượng ổ khóa này trên thanh địa chỉ của trình duyệt web. Nếu địa chỉ một website bắt đầu với ```https://```, điều đó có nghĩa là website này tương đối an toàn.
+
+![image](https://user-images.githubusercontent.com/526959/47407356-e5736500-d784-11e8-9219-36e581574137.png)
+
+* Cũng cần chú ý là biểu tượng ổ khóa không có nghĩa rằng bạn nên tin tưởng một website bạn đang truy cập 🚫. Nhiều website lừa đảo được thiết kế để đánh cắp thông tin đăng nhập của bạn cũng dùng biểu tượng ổ khóa này để gia tăng sự tin tưởng của bạn. Hãy chú ý đặc biệt vào địa chỉ website và kiểm tra rằng địa chỉ đó có chính xác hay không. Ví dụ:
+  * **Chính xác**: https://www.facebook.com (facebook.com là tên miền chính)
+  * **Sai**: https://www.facebook.tech (.tech không phải là phần mở rộng tên miền đúng)
+  * **Sai**: https://facebook.login.net (login.net là tên miền chính ở đây)
+  * **Sai**: https://www.faceb00k.com (2 chữ o đã được thay thế bằng 2 chữ số 0)
+
 ### Thực hiện backup
 ### Nhận dạng lừa đảo
 
