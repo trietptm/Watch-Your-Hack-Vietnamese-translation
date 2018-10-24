@@ -81,12 +81,23 @@ Bạn có thể nghĩ: liệu có một cái tủ khóa điện tử có an toà
 * Viết xuống password quản lý mật khẩu của bạn (master password/manager password để đăng nhập password manager) và giữ nó ở một nơi an toàn, đảm bảo rằng bạn không bao giờ mất khả năng truy cập password manager.
 * Sử dụng password manager để sinh ra các password có độ dài **từ 20 ký tự trở lên** và để password manager lưu trữ những password này cho bạn.
 
-### Những cách thức lưu giữ password khác
+### Những cách thức lưu giữ password không an toàn khác (iCloud Keychain, lưu mật khẩu trong trình duyệt, sổ tay password)
 #### ICLOUD KEYCHAIN
+* iCloud Keychain là 1 cách lưu trữ password nếu bạn chỉ tập trung sử dụng các sản phẩm của Apple 🍏. Keychain có thể sinh password và tự động điền password khi bạn cần đến chúng. Chức năng của iCloud Keychain khá là giới hạn so với các ứng dụng quản lý password khác. Nếu sử dụng iCloud Keychain ít nhất bạn cần sử dụng một password mạnh và xác thực 2 yếu tố (đa nhân tố) cho tài khoản iCloud.
+
+![image](https://user-images.githubusercontent.com/526959/47401825-0334d000-d76d-11e8-87fc-0cb5362d6dd6.png)
+
 #### Lưu trong trình duyệt
-#### Sổ tay/Ghi chú password
+* Các trình duyệt như Chrome và [Firefox](https://support.mozilla.org/en-US/kb/use-master-password-protect-stored-logins) cho phép lưu password trong trình duyệt nhưng sử dụng một ứng dụng quản lý password là 1 lựa chọn tốt hơn.
+
+#### Sổ tay password
+* Giấy và bút 📝 có thể được dùng để lưu giữ password. Hãy đảm bảo rằng bạn tạo ra các password duy nhất khác nhau và lưu trữ chúng cẩn thận. Và tạo ra một bản copy trong một kho vật lý mà bạn giữ làm backup. Nếu lo lắng người khác có thể đọc được password ghi trên giấy của mình, bạn hãy chú ý không để mọi người có thể tiếp cận đến sổ tay của bạn. Một thủ thuật hữu dụng nữa là bạn có thể thêm một từ cố định vào password của bạn mà bạn sẽ không ghi ra từ này vào sổ tay password. Chỉ đơn giản là nhớ nó. Nếu ai đó có thể tiếp cận sổ tay password của bạn, ít nhất họ không thể sử dụng password nào bạn đã viết ra, bởi vì chúng đã thiếu mất một thành phần quan trọng được nhớ bằng não của bạn.
+
+![image](https://user-images.githubusercontent.com/526959/47403116-8c9ad100-d772-11e8-93ba-7b43aab0bb71.png)
 
 ### Cập nhật danh sách những password của bạn đã bị đánh cắp
+* Dù cho password của bạn có rất mạnh đến đâu đi nữa, nó cũng có thể bị đánh cắp. Chính vì vậy, bạn cần kiểm tra xem các password của bạn đã bị đánh cắp bởi các hacker chưa. Bạn có thể sử dụng website [Have I Been Pwned](https://haveibeenpwned.com/) hỗ trợ bạn theo dõi các website đã bị hack mà tài khoản của bạn bị ảnh hưởng và sẽ cảnh báo bạn khi có thông tin xuất hiện. Chỉ với một click chuột, bạn có thể biết liệu có tài khoản nào của bạn đã bị xâm nhập. Bạn nên thường xuyên làm việc kiểm tra này để giữ an toàn cho tài khoản của bạn.
+* Nếu bạn đăng ký với website [Have I Been Pwned](https://haveibeenpwned.com/) , bạn sẽ nhận được **thông báo** 🔔 mỗi khi hệ thống website này phát hiện email của bạn nằm trong danh sách các file chứa thông tin tài khoản bị đánh cắp. Bằng cách này, bạn sẽ biết chính xác những password nào của mình đã bị đánh cắp trong các sự cố đó, dựa vào thông tin dịch vụ hay website đã bị hacker xâm nhập. Nếu [Have I Been Pwned](https://haveibeenpwned.com/) tìm thấy email của bạn nằm trong các file bị đánh cắp, bạn nên thay đổi ngay password tương ứng của bạn. Nếu bạn làm được việc này, mối hiểm họa lớn nhất, một hacker đăng nhập sử dụng password của bạn đã được giảm đi đáng kể.
 
 ### Xác thực Hai-Bước (Đa Nhân Tố)
 #### Mã xác thực qua tin nhắn điện thoại
