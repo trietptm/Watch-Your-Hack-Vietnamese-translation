@@ -246,13 +246,23 @@ Hãy dành sự chú ý đến các ứng dụng mở rộng trình duyệt đ�
 
 ## Điện thoại và máy tính bảng
 
+![image](https://user-images.githubusercontent.com/526959/47517016-1e105d00-d8b1-11e8-9f2c-8228c23abf54.png)
+
+Thiết bị smartphone 📱 là thiết bị quan trọng nhất đối với cuộc sống của nhiều người, đó là lý do tại sao việc kiện toàn bảo mật cho smartphone là vô cùng quan trọng, cho dù bạn sử dụng thiết bị Android hay iPhone.
+
 ### Mua 1 iPhone
+* Các điện thoại iPhone nhìn chung là an toàn hơn các điện thoại Android. Đó là lý do tại sao những người có nhiều rủi ro bị hack như các luật sư và các nhà chính trị 👴 thường sử dụng iPhone. Các iPhone cũng được đảm bảo được nhận các bản cập nhật trong 5 năm sau khi chúng được phát hành.
+* Điện thoại Android an toàn nhất hiện nay là các điện thoại Pixel (trước đây có tên là Nexus), được làm bởi Google. Google đã có [những nỗ lực](https://android-developers.googleblog.com/2017/05/here-comes-treble-modular-base-for.html) phát triển hệ điều hành Android để các nhà sản xuất điện thoại như Samsung, Huawei và OnePlus có thể phát hành các bản cập nhật bảo mật nhanh hơn nhiều trước đây.
 
 ### Cập nhật ngay khi bạn có thể
+* Một thủ thuật thường xuyên lặp lại trong danh sách: luôn luôn cập nhật các thiết bị di động của bạn **ngay khi bạn có thể** ⏰. Các bản cập nhật vá các lỗ hổng bảo mật cho phép các hacker xâm nhập vào smartphone hay máy tính bảng của bạn. Đồng thời hãy thường xuyên cập nhật các ứng dụng của bạn. Những ứng dụng này cũng chứa các lỗ hổng bảo mật có thể cho phép các hacker truy cập các thông tin cá nhân của bạn.
 
 ### Kích hoạt mã hóa
+* Mã hóa giúp cho dữ liệu của bạn, như các tin nhắn và các hình ảnh được lưu trong kho kỹ thuật số được bảo vệ bởi các khóa bảo mật 🔑. Tất cả các điện thoại iPhone và Android có chức năng mã hóa được mặc định bật lên, nhưng một số điện thoại Android vẫn có thể yêu cầu bạn bật chức năng mã hóa lên một cách thủ công. Lựa chọn kích hoạt chức năng mã hóa có thể được tìm thấy bằng cách vào ```Settings > Security```.
+* Điều gì sẽ xảy ra nếu như ai đó lấy điện thoại của bạn và kết nối nó vào một máy tính? Mã hóa đảm bảo người này không thể xem được nội dung các log chat và các bức ảnh của bạn. Những nội dung này chỉ có thể xem được nếu như passcode chính xác được nhập vào, đây chính là chìa khóa vào kho kỹ thuật số của bạn. Đó cũng là lý do tại sao sử dụng 1 passcode để khóa thiết bị di động khi bạn không sử dụng chúng là rất quan trọng.
 
 ### Sử dụng passcode với ít nhất 6 chữ số và ứng dụng scan vân tay
+* 
 
 ### Chỉ cài đặt ứng dụng từ App Store hoặc Google Play
 
