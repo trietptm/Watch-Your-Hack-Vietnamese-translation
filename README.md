@@ -325,17 +325,39 @@ Thiết bị smartphone 📱 là thiết bị quan trọng nhất đối với c
 Chúng ta gửi rất nhiều các tin nhắn 💬 và thực hiện các cuộc gọi ☎️ hàng ngày. Vì vậy, chúng ta hãy tìm cách làm cho nó an toàn nhất có thể. Chương này nói về làm sao bạn có thể liên lạc một cách an toàn mà người khác không nghe lén hay đọc trộm các tin nhắn của bạn được.
 
 ### Mã hóa đầu cuối ứng dụng
+* Việc liên lạc đã trở nên **an toàn hơn nhiều** kể từ tháng 4 năm 2016, khi mà ứng dụng WhatsApp giới thiệu mã hóa đầu cuối ứng dụng. Chức năng này đảm bảo rằng chỉ có thiết bị của người gửi và người nhận có thể đọc được các tin nhắn được gửi bởi họ cho nhau. Nếu một ai đó có thể can thiệp vào để đọc các nội dung tin nhắn được mã hóa đầu cuối ứng dụng, chúng sẽ không khác gì những nội dung vô nghĩa.
+* Bạn có thể so sánh với việc gửi một bưu thiếp qua bưu điện. Nếu bạn viết điều gì vào mặt trong của bưu thiếp và dán tem vào bưu thiếp. Với dạng mã hóa thông thường, người đưa thư (trong trường hợp ở đây là ứng dụng WhatsApp) có thể đọc được nội dung bạn gửi trên bưu thiếp. Với những tin nhắn được gửi qua mã hóa ứng dụng đầu cuối, bạn về cơ bản đã đặt bưu thiếp vào một **phong thư được dán lại đặc biệt** ✉️ mà chỉ có người nhận mới có thể đọc được nội dung của bưu thiếp.
+* Mã hóa ứng dụng đầu cuối không chỉ được áp dụng cho việc gửi tin nhắn mà còn có thể áp dụng cho việc gửi và nhận các bức ảnh, video, tài liệu và thông tin địa điểm của bạn. Bạn cũng có thể bảo mật các cuộc gọi thoại và video với mã hóa ứng dụng đầu cuối.
 
 ### WhatsApp và Facebook
+* WhatsApp được sở hữu bởi Facebook; một công ty kiếm ra lợi nhuận bằng cách thu thập nhiều thông tin nhất có thể về người dùng của nó. Bởi vì có mã hóa đầu cuối ứng dụng, Facebook không biết được nội dung các tin nhắn hay các bức ảnh bạn đang gửi. Nhưng Facebook có thể theo dõi được bạn đang liên lạc với những ai. Dạng thông tin này được gọi là **metadata**.
 
 ### Những lựa chọn thay thế cho WhatsApp
+* Sử dụng ứng dụng chat nào khác là lựa chọn cá nhân của bạn. Một số người chú trọng vào tính dễ sử dụng, trong khi một số người khác chuộng các ứng dụng tập trung vào bảo vệ quyền riêng tư của họ. Có 5 lựa chọn thay thế cho WhatsApp trong tài liệu này.
 
 #### SIGNAL
+
+![image](https://user-images.githubusercontent.com/526959/47557283-77709e80-d93a-11e8-9754-d342b69d781d.png)
+
 #### WICKR ME
+
+![image](https://user-images.githubusercontent.com/526959/47557318-8f482280-d93a-11e8-9454-c860ff50f094.png)
+
 #### WIRE
+
+![image](https://user-images.githubusercontent.com/526959/47557324-98d18a80-d93a-11e8-844c-38800ef4d0da.png)
+
 #### TELEGRAM
+
+![image](https://user-images.githubusercontent.com/526959/47557356-abe45a80-d93a-11e8-9db3-70e7d38e3e64.png)
+
 #### IMESSAGE
+
+![image](https://user-images.githubusercontent.com/526959/47557374-b30b6880-d93a-11e8-9da8-84189e469de2.png)
+
 #### THREEMA
+
+![image](https://user-images.githubusercontent.com/526959/47557383-ba327680-d93a-11e8-90ff-712cb4098236.png)
 
 ### Tự động xóa tin nhắn
 
