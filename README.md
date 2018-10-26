@@ -405,9 +405,17 @@ Chúc mừng bạn đã đọc đến đây 👏! Kiến thức của bạn về
 * Lặp quá trình này 7 lần để đảm bảo an toàn hoàn toàn. Bạn sẽ nhận được một chuỗi 7 từ tiếng Anh hoàn toàn ngẫu nhiên, ví dụ như ```limbo krebs hoyt ember cometh swipe zaire```. Phương pháp Diceware hiện nay là phương pháp tốt nhất tạo một password mạnh mà bạn có thể nhớ được.
 
 ### Xác thực 2 yếu tố (đa nhân tố) với khóa bảo mật (security key)
-* 
+* Các chuyên gia khuyến nghị sử dụng một khóa vật lý usb còn được gọi là khóa bảo mật (security key) cho xác thực 2 yếu tố (đa nhân tố). Hãy kết nối security key đến các dịch vụ như Google, Facebook, Twtitter và Dropbox và lần tới khi bạn đăng nhập, bạn sẽ được yêu cầu sử dụng khóa bảo mật đó.
+
+![image](https://user-images.githubusercontent.com/526959/47587246-7bc5a780-d98c-11e8-8eb8-89a86684265b.png)
+
+* Gắn khóa usb vào máy tính của bạn và kết nối nó vào điện thoại của bạn để xác thực cho đăng nhập tài khoản của bạn. Dịch vụ online sẽ kiểm tra 👮 khóa usb đó có được gắn với tài khoản của bạn không và khóa bảo mật sẻ giúp bạn chặn việc đăng nhập không đúng ứng dụng hay website ✅. Việc này bảo vệ trước các tấn công lừa đảo kỹ thuật số và các website giả mạo, bởi vì cố gắng đăng nhập chỉ có thể thành công nếu như khóa của bạn và dịch vụ online hợp lệ.
+* Bạn được khuyên là nên mua **2 khóa bảo mật** (security key): một để giữ bên người và một làm khóa backup. Hãy kết nối (link) cả 2 khóa usb đến các dịch vụ mà bạn muốn kích hoạt xác thực 2 yếu tố (đa nhân tố). Và đừng quên **tắt đi** những dạng xác thực hai yếu tố khác mà bạn có thể đã kích hoạt cho các dịch vụ này, đặc biệt là gửi mã đăng nhập qua tin nhắn.
+* Công ty Thụy Điển Yubico bán các khóa bảo mật này. Lựa chọn thông dụng nhất là [khóa bảo mật màu xanh](https://www.yubico.com/product/security-key-by-yubico/) tương thích với tất cả các dịch vụ online phổ biến. 2 khóa này tốn 36 USD. Khóa bảo mật [Yubikey Neo](https://www.yubico.com/product/yubikey-neo/) hỗ trợ NFC với giá 50 USD, hoạt động được với các thiết bị Android và hỗ trợ tương thích iPhone còn hạn chế. Ngoài ra còn có một phiên bản [USB-c](https://www.yubico.com/product/yubikey-4-series/#yubikey-4c) giá 50 USD.
 
 ### Tắt chế độ tự động điền thông tin và kích hoạt chế độ tự động khóa màn hình
+* Một số wusng dụng quản lý password cung cấp lựa chọn tự động điền vào các password trên các website cho bạn. Việc này là **không an toàn**. Một hacker có thể đánh lừa ứng dụng quản lý password với một trang giả mạo. Đó là lý do tại sao bạn nên tắt chức năng này, ví dụ là với LastPass.
+* Cũng là một lựa chọn thông minh để thiết lập ứng dụng quản lý password tự động khóa chính nó nếu như bạn không sử dụng nó sau một khoảng thời nào đó. Việc này sẽ giữ kho kỹ thuật số (được điền với các password) của bạn không bị phơi bày một cách không cần thiết.
 
 ### Thiết bị smartphone như là công cụ theo dõi của hacker và chính quyền
 
