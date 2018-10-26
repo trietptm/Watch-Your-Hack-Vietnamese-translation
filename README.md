@@ -392,10 +392,20 @@ Chúc mừng bạn đã đọc đến đây 👏! Kiến thức của bạn về
 * Lừa đảo kỹ thuật số thường xảy ra với những người **có rủi ro cao bị tấn công có chủ đích**, như các nhà chính trị, các luật sư và các nhà báo. Tốt nhất là bạn nên cẩn thận cửa nẻo. Nếu như bạn không tin tưởng được việc gì, hãy tìm đến công ty hay tổ chức được giả định là gửi thông điệp cho bạn bằng cách tìm kiếm thông tin công ty đó qua Google, và gọi điện cho họ để hỏi xem liệu thông điệp/tin nhắn mà bạn nhận được có chính thống hay không.
 
 ### Mã hóa cho các ổ cứng của bạn và các bản backup
+* Bạn có thể mã hóa cho các máy MacBook và iMac của bạn với một click chuột bằng cách kích hoạt chức năng [FileVault](https://support.apple.com/en-us/HT204837). Nó cực kỳ đơn giản và đảm bảo bất cứ ai đánh cắp hay nhặt được laptop của bạn sẽ không thể truy cập vào các file cá nhân của bạn. Đừng đợi chờ nữa: **hãy kích hoạt ngay chức năng này ngay bây giờ**.
+* Đối với Windows ta có câu chuyện hoàn toàn khác. Microsoft chỉ cung cấp dịch vụ mã hóa Bitlocker cho các máy tính sử dụng phiên bản Pro của Windows. Tiếc thay phiên bản này lại ít được người dùng cá nhân sử dụng 🤷.
+* May mắn là chúng ta có các lựa chọn thay thế để cân nhắc. [VeraCrypt](https://www.veracrypt.fr/en/Downloads.html) là lựa chọn an toàn và đáng tin cậy nhất. Hãy đảm bảo rằng bạn đã backup các file trước khi mã hóa toàn bộ ổ cứng của bạn. Quá trình mã hóa ổ cứng có thể mất hàng giờ đồng hồ và có thể phát sinh vấn đề trong vài trường hợp. Với một bản backup, bạn sẽ đảm bảo được sự an toàn cho các file của bạn.
+* Trong cùng chủ đề này: bạn cũng có thể mã hóa các bản backup. Hãy cân nhắc mã hóa ổ cứng gắn ngoài với VeraCrypt chẳng hạn. Một ứng dụng tốt khác là [Cryptomator](https://cryptomator.org), cho phép ngay lập tức mã hóa các file và upload chúng lên cloud. Tuy nhiên, hãy chú ý giữ cẩn thận password của bạn. Mất password của bạn nghĩa là bạn cũng mất đi truy cập đến các file của bạn.
+
+![image](https://user-images.githubusercontent.com/526959/47582330-3dc18700-d97e-11e8-8136-9be83df7b141.png)
 
 ### Tạo một password mạnh sử dụng phương pháp Diceware
+* Phương pháp Diceware được sử dụng bởi các chuyên gia cho phép tạo ra các password rất mạnh. Diceware sử dụng một lần tung xúc xắc ngẫu nhiên 🎲 và một danh sách dài các từ để sinh các password. Ví dụ [đây](http://world.std.com/~reinhold/dicewarewordlist.pdf) là danh sách các từ tiếng Anh mà bạn có thể sử dụng.
+* Bạn bắt đầu bằng cách tung xúc xắc. Thực hiện việc này 5 lần liên tiếp và ghi ra liên tiếp các giá trị nhận được mỗi lần. Bạn sẽ nhận được một số có 5 chữ số và tương ứng với một từ trong danh sách. Ví dụ: nếu bạn tung xúc xắc và nhận được chuỗi ```3-6-4-5-5```, từ mà bạn nhận được tương ứng với chuỗi này là ```limbo```.
+* Lặp quá trình này 7 lần để đảm bảo an toàn hoàn toàn. Bạn sẽ nhận được một chuỗi 7 từ tiếng Anh hoàn toàn ngẫu nhiên, ví dụ như ```limbo krebs hoyt ember cometh swipe zaire```. Phương pháp Diceware hiện nay là phương pháp tốt nhất tạo một password mạnh mà bạn có thể nhớ được.
 
 ### Xác thực 2 yếu tố (đa nhân tố) với khóa bảo mật (security key)
+* 
 
 ### Tắt chế độ tự động điền thông tin và kích hoạt chế độ tự động khóa màn hình
 
