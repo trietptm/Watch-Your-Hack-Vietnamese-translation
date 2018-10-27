@@ -3,7 +3,7 @@ Bản dịch tài liệu bảo mật Watch Your Hack, bảo vệ cá nhân trư�
 
 Bài viết được cập nhật lần cuối theo phiên bản: Watch Your Hack V5. Những thay đổi khác nếu có là do tôi thực hiện để làm rõ ý, tránh cho bạn đọc hiểu không đúng vấn đề.
 
-Một phiên bản hoàn thiện của các nội dung trong bài viết chiếm khoảng 20-30% nội dung của khóa huấn luyện của tôi thực hành chi tiết hơn về bảo mật cho tài khoản cá nhân dành cho người nổi tiếng, các nhà hoạt động xã hội và những người giữ vị trí quan trọng trong các công ty.
+Một phiên bản hoàn thiện của các nội dung trong bài viết chiếm khoảng 20-30% nội dung của khóa huấn luyện của tôi thực hành chi tiết hơn về bảo mật cho tài khoản cá nhân dành cho người nổi tiếng, nhà hoạt động xã hội, nhà báo, luật sư và những người giữ vị trí quan trọng trong các công ty.
 
 Nếu có ý kiến thảo luận, hỏi đáp nào, hay bạn cần khóa huấn luyện với một phiên bản thực hành tối ưu hơn, bạn có thể tìm đến sự tư vấn chuyên sâu hơn của tôi qua tin nhắn riêng ở [Twitter](https://twitter.com/MinhTrietPT) hay [LinkedIn](https://www.linkedin.com/in/trietptm/) hoặc liên hệ [tác giả](https://daniel.verlaan.xyz/contact/) của bài viết gốc.
 
@@ -423,12 +423,19 @@ Chúc mừng bạn đã đọc đến đây 👏! Kiến thức của bạn về
 * Một biện pháp mạnh hơn là tắt nguồn điện thoại của bạn và giữa nó trong một cái bọc Faraday mà bạn có thể [tự làm](https://killyourphone.com/) hoặc bỏ nó trong một nồi vi sóng (nhưng **đừng bao giờ** bật cho nồi vi sóng này hoạt động nếu như điện thoại của bạn đang ở trong đó). Đây là cách duy nhất để chắc chắn rằng, không ai có thể theo dõi vị trí của bạn.
 
 ### Cẩn trọng trong việc backup nội dung chat trên cloud
+* Nhiều ứng dụng chat cung cấp lựa chọn lưu nội dung chat trên cloud ☁️, qua Google Drive hoặc iCloud. Hãy cẩn trọng điều này. Tất cả các tin nhắn được mã hóa đầu cuối ứng dụng ngay sau khi đã được gửi dến thiết bị của người nhận thì sẽ mất sự mã hóa này, vì nếu không bạn sẽ không đọc được nội dung của chúng. Nếu bạn lựa chọn backup các tin nhắn của bạn, chúng sẽ được upload lên cloud mà không có mã hóa. Một cơ quan tình báo có thể **yêu cầu lịch sử nội dung chat của bạn**. Hãy chú ý rằng các tin nhắn cũng có thể được backup bởi những người mà bạn chat với họ.
 
 ### Thiết lập mật khẩu với các nhà cung cấp dịch vụ cho bạn
+* Việc bảo vệ số điện thoại của bạn rất quan trong, bởi vì nó có thể cung cấp khả năng truy cập đến các mã đăng nhập và mã reset password được gửi đến cho bạn. Các hacker có thể gọi điện đến nhà cung cấp dịch vụ và mạo danh bạn để lấy thông tin nhạy cảm. Trong một số trường hợp, họ thậm chí có thể kiểm soát được số điện thoại của bạn 📱. Hãy yêu cầu nhà cung cấp dịch vụ của bạn để hỏi một password khi phục vụ khách hàng. Nhà cung cấp dịch vụ đó sẽ yêu cầu bạn hay người mạo danh bạn phải cung cấp password trước khi hỗ trợ cho các yêu cầu dịch vụ khách hàng.
+
+![image](https://user-images.githubusercontent.com/526959/47600911-a5191e80-d9f2-11e8-9b9b-7758b0aeb2e4.png)
 
 ### Cẩn trọng đối với thông tin vị trí trong các bức ảnh
+* Khi bạn sử dụng điện thoại smartphone của bạn để chụp ảnh 🖼️, điện thoại của bạn sẽ lưu giữ tất cả các thông tin đi kèm như ngày, thời gian và địa điểm chụp bức ảnh 🏘️. Thông tin này còn được gọi là EXIF-data. Khi bạn chia sẻ các bức ảnh này lên Facebook, Twitter, Instagram hay WhatsApp, dữ liệu EXIF-data được tự động gỡ bỏ. Tuy nhiên, khi bạn upload một bức ảnh đến website của bạn hay bạn email nó đi, thông tin này vẫn có thể truy cập được bởi những người khác. Nếu bạn muốn đảm bảo rằng EXIF-data được gỡ bỏ, hãy sử dụng website [ImgClean.io](https://imgclean.io/) trước khi upload hay email các bức ảnh của bạn. ImgClean sẽ gỡ khỏi các bức ảnh những thông tin có thêm này và cho bạn tải về một phiên bản sạch của bức ảnh mà bạn có thể chia sẻ một cách an toàn.
 
 ### Gọi điện an toàn
+* Nếu như bạn muốn gọi cho ai đó mà không có rủi ro **bị nghe lén** 👂, chúng tôi khuyến nghị bạn sử dụng ứng dụng Signal. Signal mã hóa các cuộc gọi với mã hóa ứng dụng đầu cuối. Đối với những người gặp nhiều nguy cơ như các nhà báo và các luật sư, biện pháp này thực sự cần thiết.
+* Gọi điện qua Signal (và WhatsApp) cũng bảo vệ bạn trước dạng tấn công **IMSI-catcher**. Những thiết bị này giả làm các cột thu phát sóng điện thoại để nghe lén cuộc gọi và xem trộm tin nhắn của bạn. IMSI-catcher thường được sử dụng bởi các cơ quan an ninh, tình báo nhưng chúng cũng có thể được làm bởi các hacker.
 
 ### Email được mã hóa với ProtonMail
 
