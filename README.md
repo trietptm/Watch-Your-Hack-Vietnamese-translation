@@ -66,7 +66,7 @@ Nếu có ý kiến thảo luận, hỏi đáp nào, hay bạn cần khóa huấ
 ![image](https://user-images.githubusercontent.com/526959/47355448-975e5300-d6eb-11e8-8d8e-397167538043.png)
 
 #### KEEPASS (FREE)
-* [KeePass](https://keepass.info/) được xem là ứng dụng quản lý password an toàn nhất, bởi vì nhiều chuyên gia bảo mật sử dụng ứng dụng này và đã tham gia làm cho nó an toàn hơn với kiến thức chuyên môn của họ. Điểm hạn chết là ứng dụng này nhìn khá cũ (old-fashioned), giống như một ứng dụng Windows XP. May mắn là cộng đồng sử dụng KeePass đầy những lập trình viên đầy đam mê đã làm những ứng dụng đẹp hơn với KeePass, ví dụ [MacPass for MacOS](https://macpassapp.org/). Một lựa chọn tốt khác là [KeePassXC](https://keepassxc.org/), về nhiều mặt là một phiên bản tốt và đầy đủ hơn cho KeePass, và cũng thường xuyên được cập nhật bởi một nhóm các lập trình viên đầy nhiệt huyết.
+* [KeePass](https://keepass.info/) được xem là ứng dụng quản lý password an toàn nhất, bởi vì nhiều chuyên gia bảo mật sử dụng ứng dụng này và đã tham gia làm cho nó an toàn hơn với kiến thức chuyên môn của họ. Điểm hạn chế là ứng dụng này nhìn khá cũ (old-fashioned), giống như một ứng dụng Windows XP. May mắn là cộng đồng sử dụng KeePass đầy những lập trình viên đầy đam mê đã làm những ứng dụng đẹp hơn với KeePass, ví dụ [MacPass for MacOS](https://macpassapp.org/). Một lựa chọn tốt khác là [KeePassXC](https://keepassxc.org/), về nhiều mặt là một phiên bản tốt và đầy đủ hơn cho KeePass, và cũng thường xuyên được cập nhật bởi một nhóm các lập trình viên đầy nhiệt huyết.
 
 ![image](https://user-images.githubusercontent.com/526959/47356192-86164600-d6ed-11e8-9735-f2623a723355.png)
 
