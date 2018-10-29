@@ -3,7 +3,7 @@ Bản dịch tài liệu bảo mật Watch Your Hack, bảo vệ cá nhân trư�
 
 Bài viết được cập nhật lần cuối theo phiên bản: Watch Your Hack V5. Những thay đổi khác nếu có là do tôi thực hiện để làm rõ ý, tránh cho bạn đọc hiểu không đúng vấn đề.
 
-Một phiên bản hoàn thiện của các nội dung trong bài viết chiếm khoảng 20-30% nội dung của khóa huấn luyện của tôi thực hành chi tiết hơn về bảo mật cho tài khoản cá nhân dành cho người nổi tiếng, nhà hoạt động xã hội, nhà báo, luật sư và những người giữ vị trí quan trọng trong các công ty.
+Một phiên bản hoàn thiện của các nội dung trong bài viết chiếm khoảng 20-30% nội dung của khóa huấn luyện của tôi thực hành chi tiết hơn về bảo mật cho tài khoản cá nhân dành cho người nổi tiếng, nhà hoạt động xã hội, nhà báo, luật sư, giám đốc và những người giữ vị trí quan trọng trong các công ty.
 
 Nếu có ý kiến thảo luận, hỏi đáp nào, hay bạn cần khóa huấn luyện với một phiên bản thực hành tối ưu hơn, bạn có thể tìm đến sự tư vấn chuyên sâu hơn của tôi qua tin nhắn riêng ở [Twitter](https://twitter.com/MinhTrietPT) hay [LinkedIn](https://www.linkedin.com/in/trietptm/) hoặc liên hệ [tác giả](https://daniel.verlaan.xyz/contact/) của bài viết gốc.
 
@@ -74,7 +74,7 @@ Bạn có thể nghĩ: liệu một cái tủ khóa điện tử có an toàn ha
 
 ### Mật khẩu mạnh
 * Các website và ứng dụng thường yêu cầu bạn sử dụng mật khẩu có chữ và số. Nhưng một password như thế nào là 1 password mạnh? Nhiều người xem ```P@ssword007``` là 1 password mạnh nhưng trong thực tế, password này khá dễ crack 🔨 đối với các hacker. Đó là lý do tại sao bạn nên cân nhắc sử dụng passphrase (cụm password) thay vì các password được tạo với 1 từ đơn giản.
-* Cụm password dài nhưng dễ nhớ, là 2 điều kiện tiên quyết cho một password mạnh. Một passphrase như I eat 2 whole pizzas every week thì dễ nhớ và khá khó để để crack. Đừng ngần ngại sử dụng các khoảng trắng trong các password của bạn; đây là 1 lựa chọn mà chúng ta thường bỏ qua.
+* Cụm password dài nhưng dễ nhớ, là 2 điều kiện tiên quyết cho một password mạnh. Một passphrase như ```I eat 2 whole pizzas every week``` thì dễ nhớ và khá khó để để crack. Đừng ngần ngại sử dụng các khoảng trắng trong các password của bạn; đây là 1 lựa chọn mà chúng ta thường bỏ qua.
 * Bạn cũng có thể tạo một password bằng cách đặt những từ ngẫu nhiên lại với nhau với phương pháp [Diceware](http://world.std.com/~reinhold/dicewarefaq.html). Diceware hiện tại gần như là phương pháp an toàn nhất để tạo một password mà bạn có thể nhớ được.
 
 ### Tóm lược về cách tốt nhất để lưu trữ password
