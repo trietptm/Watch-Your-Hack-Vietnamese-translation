@@ -61,7 +61,7 @@ Nếu có ý kiến thảo luận, hỏi đáp nào, hay bạn cần khóa huấ
 ![image](https://user-images.githubusercontent.com/526959/47352478-2bc4b780-d6e4-11e8-933f-35cbfbf92870.png)
 
 #### BITWARDEN (FREE)
-* [Bitwarden](https://bitwarden.com/) đã trở nên khá thông dụng những năm gần đây. Đây là 1 ứng dụng hoàn toàn mở, có thể cài đặt trên nhiều nền tảng và có thể sử dụng miễn phí. Bạn có thể chia sẻ password với vợ/chồng hay người trong gia đình, một chức năng mà bạn phải trả phí để sử dụng trong hầu hết các ứng dụng quản lý password khác. Nếu bạn muốn chia sẻ password với hơn một người, bạn sẽ phải trả phí 1 USD một tháng, đồng thời cũng sẽ cung cấp cho bạn 1 gigabyte chứa dữ liệu cho các file của bạn. Những người dùng rành kỹ thuật có thể tự vận hành hạ tầng Bitwarden cho riêng mình.
+* [Bitwarden](https://bitwarden.com/) đã trở nên khá thông dụng những năm gần đây. Đây là 1 ứng dụng hoàn toàn mở, có thể cài đặt trên nhiều nền tảng và có thể sử dụng miễn phí. Bạn có thể chia sẻ password với vợ/chồng hay người trong gia đình, một chức năng mà bạn phải trả phí để sử dụng trong hầu hết các ứng dụng quản lý password khác. Nếu bạn muốn chia sẻ password với hơn một người, bạn sẽ phải trả phí 1 USD một tháng, đồng thời dịch vụ cũng sẽ cung cấp cho bạn 1 gigabyte chứa dữ liệu cho các file của bạn. Những người dùng rành kỹ thuật có thể tự vận hành hạ tầng Bitwarden cho riêng mình.
 
 ![image](https://user-images.githubusercontent.com/526959/47355448-975e5300-d6eb-11e8-8d8e-397167538043.png)
 
