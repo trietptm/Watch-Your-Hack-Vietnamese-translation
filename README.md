@@ -351,7 +351,7 @@ Chúng ta gửi rất nhiều các tin nhắn 💬 và thực hiện các cuộc
 ![image](https://user-images.githubusercontent.com/526959/47557318-8f482280-d93a-11e8-9454-c860ff50f094.png)
 
 #### WIRE
-* Ứng dụng [Wire](https://wire.com/) của Thụy Sĩ có khá nhiều fan sử dụng trong những năm gần đây, điều này không khiến ta lấy làm lạ bởi các chức năng và thiết kế của Wire. Ứng dụng này sử dụng phương pháp mã hóa của Signal, đồng thời kết hợp một thiết kế đẹp với tính linh hoạt của Telegram. Điều đó có nghĩa là bạn có thể chat từ điện thoại smartphone, trên máy tính hoặc qua trình duyệt web. Các ứng dụng gọi video, chia sẻ file hay gửi các ảnh gif đều được bảo vệ với mã hóa đầu cuối ứng dụng.
+* Ứng dụng [Wire](https://wire.com/) của Thụy Sĩ có khá nhiều fan sử dụng trong những năm gần đây, điều này không khiến ta lấy làm lạ bởi các chức năng và thiết kế của Wire. Ứng dụng này sử dụng phương pháp mã hóa của Signal, đồng thời kết hợp một thiết kế đẹp với tính linh hoạt của Telegram. Điều đó có nghĩa là bạn có thể chat từ điện thoại smartphone, trên máy tính hoặc qua trình duyệt web. Các ứng dụng gọi video, **chia sẻ file** hay gửi các ảnh gif đều được bảo vệ với mã hóa đầu cuối ứng dụng.
 
 ![image](https://user-images.githubusercontent.com/526959/47557324-98d18a80-d93a-11e8-844c-38800ef4d0da.png)
 
