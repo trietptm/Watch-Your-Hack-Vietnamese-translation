@@ -341,7 +341,7 @@ Chúng ta gửi rất nhiều các tin nhắn 💬 và thực hiện các cuộc
 ![image](https://user-images.githubusercontent.com/526959/47557283-77709e80-d93a-11e8-9754-d342b69d781d.png)
 
 #### THREEMA
-* Ứng dụng chat [Threema](https://threema.ch/en) của Thụy Sĩ là một ứng dụng được ưa thích trong giới nhà báo, bỏi vì bạn chỉ phải chia sẻ một username để liên lạc với những người khác. Các phóng viên không phải chia sẻ số điện thoại để sử dụng Threema. Ứng dụng này cũng có một giao diện rất được ưa thích và có nhiều chức năng. Chỉ có 1 nhược điểm duy nhất: bạn cần trả phí 3 USD để cài đặt ứng dụng này. Cũng vì lý do này mà Threema chưa có nhiều người dùng như các ứng dụng miễn phí khác.
+* Ứng dụng chat [Threema](https://threema.ch/en) của Thụy Sĩ là một ứng dụng được ưa thích trong giới nhà báo, bởi vì bạn chỉ phải chia sẻ một username để liên lạc với những người khác. Các phóng viên không phải chia sẻ số điện thoại để sử dụng Threema. Ứng dụng này cũng có một giao diện rất được ưa thích và có nhiều chức năng. Chỉ có 1 nhược điểm duy nhất: bạn cần trả phí 3 USD để cài đặt ứng dụng này. Cũng vì lý do này mà Threema chưa có nhiều người dùng như các ứng dụng miễn phí khác.
 
 ![image](https://user-images.githubusercontent.com/526959/47557383-ba327680-d93a-11e8-90ff-712cb4098236.png)
 
