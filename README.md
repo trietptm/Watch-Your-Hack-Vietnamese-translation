@@ -3,7 +3,7 @@ Bản dịch tài liệu bảo mật Watch Your Hack, bảo vệ cá nhân trư�
 
 Bài viết được cập nhật lần cuối theo phiên bản: Watch Your Hack V5. Những thay đổi khác nếu có là do tôi thực hiện để làm rõ ý, tránh cho bạn đọc hiểu không đúng vấn đề.
 
-Một phiên bản hoàn thiện của các nội dung trong bài viết chiếm khoảng 20-30% nội dung của khóa huấn luyện của tôi thực hành chi tiết hơn về bảo mật cho tài khoản cá nhân dành cho người nổi tiếng, nhà hoạt động xã hội, nhà báo, luật sư, giám đốc và những người giữ vị trí quan trọng trong các công ty.
+Một phiên bản hoàn thiện của các nội dung trong bài viết chiếm khoảng 20-30% nội dung của khóa huấn luyện của tôi thực hành chi tiết hơn về bảo mật cho tài khoản cá nhân dành cho người nổi tiếng (Celebrity), nhà hoạt động xã hội (social activists), nhà báo (journalists), luật sư (lawyers), giám đốc và những người giữ vị trí quan trọng trong các công ty (CEO, CIO, CTO, CFO, CISO, leaders,...).
 
 Nếu có ý kiến thảo luận, hỏi đáp nào, hay bạn cần khóa huấn luyện với một phiên bản thực hành tối ưu hơn, bạn có thể tìm đến sự tư vấn chuyên sâu hơn của tôi qua tin nhắn riêng ở [Twitter](https://twitter.com/MinhTrietPT) hay [LinkedIn](https://www.linkedin.com/in/trietptm/) hoặc liên hệ [tác giả](https://daniel.verlaan.xyz/contact/) của bài viết gốc.
 
